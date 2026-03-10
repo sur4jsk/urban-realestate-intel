@@ -1,0 +1,10 @@
+.venv/
+airflow-env/
+logs/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+realestate_dbt/target/
+realestate_dbt/dbt_packages/
+realestate_dbt/logs/
