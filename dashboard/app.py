@@ -15,7 +15,7 @@ st.set_page_config(
 @st.cache_resource
 def get_engine():
     return create_engine(
-        "postgresql+psycopg2://postgres:realestate123@localhost:5432/realestate"
+        "postgresql+psycopg2://neondb_owner:npg_AIcXn0ajsbS7@ep-young-union-ad8r9swu-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require"
     )
 
 @st.cache_data(ttl=3600)
