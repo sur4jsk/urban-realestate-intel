@@ -123,14 +123,4 @@ NEWS_API_KEY=your_newsapi_key
 ---
 
 Built by **Suraj Sanjay Kartha** | [LinkedIn](www.linkedin.com/in/surajkartha)
-```
 
-Save the file.
-
----
-
-## Part 2 — Create .env.example
-
-Create a new file `.env.example` in your project root:
-```
-NEWS_API_KEY=your_newsapi_key_here
