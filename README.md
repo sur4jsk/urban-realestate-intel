@@ -122,7 +122,7 @@ NEWS_API_KEY=your_newsapi_key
 
 ---
 
-Built by **Vaisakh** | [LinkedIn](YOUR_LINKEDIN_URL)
+Built by **Suraj Sanjay Kartha** | [LinkedIn](www.linkedin.com/in/surajkartha)
 ```
 
 Save the file.
